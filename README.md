@@ -1,4 +1,4 @@
-# stripe-online-payment-tuts
+# client
 
 ## Project setup
 ```
