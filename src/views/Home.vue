@@ -25,7 +25,7 @@
 
 <script>
 // Create a Stripe client.
-var stripe = window.Stripe("pk_test_PhVTXCyQHFddlKPzdQjiP9QU00HTk5E4iw");
+var stripe = window.Stripe("");
 
 // Create an instance of Elements.
 var elements = stripe.elements();
