@@ -13,7 +13,7 @@ export default {
     data() {
         return {
             errorMessage: "",
-            stripe: "pk_test_PhVTXCyQHFddlKPzdQjiP9QU00HTk5E4iw",
+            stripe: "",
             options: {},
             complete: false,
             number: false,
