@@ -104,7 +104,7 @@ export default {
             console.log(token);
 
             // let stripeApi = window.Stripe(
-            //     "sk_test_6gF9VVsBZnsEzDhGaRrL5mlV00gNFOxNYm"
+            //     ""
             // );
             // stripeApi.charges.create(
             //     {
